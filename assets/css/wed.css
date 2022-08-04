@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Sacramento;
+    src: url(../font/Sacramento-Regular.ttf);
+}
+
+
+.first{
+   border-style: solid;
+   width: 500px;
+   height: 600px;
+   text-align: center   ;
+   box-shadow: 2px 2px 5px black;
+   margin-left: 490px;
+   margin-top: 70px;
+   
+}
+h1{
+    font-size: 60px;
+    font-style: oblique;
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    font-family: Sacramento;
+
+    padding-right: 80px;
+}
+h1,h2,p,h4,h5{
+    text-transform: uppercase;
+}
+h2{
+    margin-top: 40px;
+}
+h4{
+    font-size: 24px;
+    width: 57%;
+    margin: auto;
+    letter-spacing: 2px;
+    margin-top: 30px;
+
+}
+p{
+    display: block;
+    font-size: 16px;
+    filter: grayscale(70%);
+    margin-top: 30px;
+
+}
+h5{
+    filter: grayscale(70%);
+    margin-top: 30px;
+}
+h6{
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
